@@ -1,0 +1,41 @@
+[
+  {
+    "full_name": "Ava Morgan",
+    "email": "ava.morgan@example.com",
+    "current_role": "IT Support Specialist",
+    "target_role": "Cloud Engineer",
+    "years_experience": 1.5,
+    "location": "Remote",
+    "skills_current": ["Linux", "Python", "Git"],
+    "skills_target": ["AWS", "Terraform", "Networking"],
+    "learning_preferences": ["project-based", "self-paced"],
+    "weekly_hours_available": 8,
+    "budget_limit": 150
+  },
+  {
+    "full_name": "Liam Chen",
+    "email": "liam.chen@example.com",
+    "current_role": "Business Analyst",
+    "target_role": "Data Analyst",
+    "years_experience": 2,
+    "location": "Chicago",
+    "skills_current": ["Excel", "SQL"],
+    "skills_target": ["Tableau", "Statistics", "Python"],
+    "learning_preferences": ["guided", "cohort"],
+    "weekly_hours_available": 6,
+    "budget_limit": 100
+  },
+  {
+    "full_name": "Noah Silva",
+    "email": "noah.silva@example.com",
+    "current_role": "Junior Developer",
+    "target_role": "Backend Engineer",
+    "years_experience": 1,
+    "location": "New York",
+    "skills_current": ["Python", "REST", "Git"],
+    "skills_target": ["FastAPI", "SQL", "Testing"],
+    "learning_preferences": ["self-paced"],
+    "weekly_hours_available": 10,
+    "budget_limit": 80
+  }
+]

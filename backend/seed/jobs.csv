@@ -1,0 +1,6 @@
+title,company,location,remote_type,experience_level,salary_min,salary_max,currency,required_skills,preferred_skills,description
+Cloud Engineer,Northstar Cloud,Remote,remote,junior,85000,110000,USD,Python|AWS|Linux|Networking|Terraform,Docker|Kubernetes|CI/CD,Design and maintain cloud infrastructure for product teams.
+Backend Engineer,Atlas Fintech,New York,hybrid,junior,90000,120000,USD,Python|FastAPI|SQL|REST,Redis|Docker|Testing,Build APIs and data services for payment workflows.
+Data Analyst,MarketPulse,Chicago,hybrid,junior,70000,95000,USD,SQL|Excel|Data Visualization|Statistics,Python|A/B Testing|Tableau,Analyze business metrics and present insights to stakeholders.
+Platform Engineer,Orbit Systems,Austin,onsite,mid,120000,150000,USD,Kubernetes|Terraform|AWS|CI/CD|Monitoring,Python|Go|Security,Improve developer platform reliability and automation.
+ML Engineer,VisionGrid,Remote,remote,mid,125000,165000,USD,Python|Machine Learning|SQL|MLOps|Git,Docker|Cloud|Data Engineering,Productionize ML pipelines and monitor model performance.

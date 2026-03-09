@@ -1,0 +1,11 @@
+title,provider,difficulty,duration_hours,cost_amount,cost_currency,format,url,rating,is_certificate,skills_covered
+AWS Cloud Practitioner,SkillBridge Academy,beginner,12,49,USD,video,https://example.com/aws-cloud-practitioner,4.6,true,AWS|Cloud Fundamentals|Security Basics
+Practical Terraform Bootcamp,InfraLab,intermediate,18,79,USD,project,https://example.com/terraform-bootcamp,4.7,true,Terraform|AWS|Infrastructure as Code
+FastAPI from Zero to Production,CodeForge,intermediate,14,39,USD,video,https://example.com/fastapi,4.8,true,Python|FastAPI|REST|Testing
+SQL for Analytics,DataSprint,beginner,10,0,USD,mixed,https://example.com/sql-analytics,4.5,false,SQL|Data Visualization|Statistics
+Docker and Kubernetes Foundations,CloudNative School,intermediate,16,59,USD,video,https://example.com/docker-k8s,4.4,true,Docker|Kubernetes|CI/CD
+Linux for Engineers,OpsLearn,beginner,8,0,USD,reading,https://example.com/linux-engineers,4.3,false,Linux|Networking
+MLOps in Practice,ML Studio,advanced,20,99,USD,project,https://example.com/mlops-practice,4.7,true,MLOps|Machine Learning|Monitoring|Docker
+Data Storytelling with Tableau,VizPath,beginner,9,29,USD,video,https://example.com/tableau-storytelling,4.4,false,Data Visualization|Tableau|Communication
+Git and Collaboration Essentials,DevLaunch,beginner,6,0,USD,mixed,https://example.com/git-collab,4.8,false,Git|Collaboration|CI/CD
+System Design for Early Career Engineers,ArchitectU,intermediate,11,45,USD,video,https://example.com/system-design,4.5,false,System Design|Scalability|APIs
