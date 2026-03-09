@@ -1,9 +1,11 @@
 # Career-Navigator
-Candidate Name: Deji Oyeleye
+Name: Deji Oyeleye
 
 Scenario Chosen: Career Navigation Platform
 
 Estimated Time Spent: 6 hours
+
+Presentation Video Link: https://www.loom.com/share/4596e591dc7e43c298e809fd55c2d4ed
 
 Quick Start:
 
